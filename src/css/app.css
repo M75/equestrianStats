@@ -1,0 +1,4 @@
+/* Your app custom styles here */
+div.title, .block-title {
+    padding-bottom: 2px;
+}
